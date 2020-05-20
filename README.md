@@ -8,6 +8,7 @@ A custom plugin in woocommerce Wordpress
 This example code make your wordpress calculate how much, delivery fee via lalamove 
 Delivery Now and Later
 
+
 # how to Install 
 Open your themes/function.php 
 copy the custom code to the fucntion.php 
@@ -21,3 +22,7 @@ copy the custom code to the fucntion.php
 # Demo Picture 
 
 ![Image description](https://pasteimg.com/images/2020/05/20/p.png)
+
+
+
+Note you must have a valid api info of lalamove
