@@ -9,9 +9,6 @@ This example code make your wordpress calculate how much, delivery fee via lalam
 Delivery Now and Later
 
 
-# how to Install 
-Open your themes/function.php 
-copy the custom code to the fucntion.php 
 
 
 # Demo Picture Calculating form 
